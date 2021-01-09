@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307214422089",
+    "project_id": "akhtar-app-1cb5f",
+    "storage_bucket": "akhtar-app-1cb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307214422089:android:940e0d01cfefa47978af98",
+        "android_client_info": {
+          "package_name": "co.akhtar.Flash_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307214422089-bsn422ap6gjai2sllkbcr3a0rj630dqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuNji0qu8ILmEs9cL6ql-1MHO2OOTNiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307214422089-bsn422ap6gjai2sllkbcr3a0rj630dqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
